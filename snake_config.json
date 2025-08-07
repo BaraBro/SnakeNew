@@ -1,0 +1,8 @@
+{
+  "initial_speed": 150,
+  "difficulty": "Easy",
+  "show_grid": true,
+  "smooth_animation": true,
+  "sound_effects": false,
+  "theme": "Classic"
+}

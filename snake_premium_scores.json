@@ -1,0 +1,20 @@
+[
+  {
+    "score": 50,
+    "name": "Аноним",
+    "timestamp": "2025-08-07 11:44:11",
+    "field_size": "Classic",
+    "difficulty": "Easy",
+    "duration": 26.954798936843872,
+    "foods_eaten": 5
+  },
+  {
+    "score": 20,
+    "name": "Baracuda",
+    "timestamp": "2025-08-07 11:43:43",
+    "field_size": "Classic",
+    "difficulty": "Easy",
+    "duration": 18.48603129386902,
+    "foods_eaten": 2
+  }
+]
